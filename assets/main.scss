@@ -2,6 +2,11 @@
 @tailwind components;
 @tailwind utilities;
 
+@import './transitions.scss';
+@import './icons/isax/style.css';
+@import './icons/isax-bold/style.css';
+@import './transitions.scss';
+
 html {
     font-family: 'Be Vietnam Pro', sans-serif;
     word-break: break-word !important;
