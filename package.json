@@ -15,11 +15,13 @@
     "@nuxtjs/fontawesome": "^1.1.2",
     "@nuxtjs/google-analytics": "^2.4.0",
     "@tailwindcss/line-clamp": "^0.4.0",
+    "@tinymce/tinymce-vue": "^3",
     "ant-design-vue": "^1.7.8",
     "autoprefixer": "^10.4.0",
     "dotenv": "^10.0.0",
     "lodash": "^4.17.21",
     "nuxt": "^2.15.7",
+    "vue-slick-carousel": "^1.0.6",
     "vue-click-outside": "^1.1.0"
   },
   "devDependencies": {
